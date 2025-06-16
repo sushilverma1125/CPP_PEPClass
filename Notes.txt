@@ -4,3 +4,5 @@
 include - to include
 iostream - input/output stream
 
+cout and cin - predefined objects
+printf and scanf - predefined functions
