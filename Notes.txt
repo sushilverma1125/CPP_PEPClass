@@ -10,3 +10,7 @@ printf and scanf - predefined functions
 cout << - insertion operator
 cin >> - extraction operator
 
+Data types - 
+ 1) Primitive: int, char, bool, float, long, double
+  2) Derived: data types defined from primitive data types, ex - array, string, pointer, reference
+   3) User defined: defined by user
