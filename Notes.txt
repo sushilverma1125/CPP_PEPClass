@@ -6,3 +6,7 @@ iostream - input/output stream
 
 cout and cin - predefined objects
 printf and scanf - predefined functions
+
+cout << - insertion operator
+cin >> - extraction operator
+
