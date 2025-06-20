@@ -8,11 +8,19 @@ char LowerToUpper(char c) {
     return c;
 }
 
+char convert(char ch) {
+    return ch - 'A' + 'a';
+}
+
 int main()
 {
  
     char c = 'c';
     cout << LowerToUpper(c);
+
+    char ch;
+    cin >> ch;
+    cout << convert(ch);
 
     return 0;
 }
