@@ -15,3 +15,7 @@ Data types -
  2) Derived: data types defined from primitive data types, ex - array, string, pointer, reference
  3) User defined: defined by user, ex - structure, union, class
 
+- Monday, 23 June, 2025
+
+Run time : Memory allocated after the user has run the program after giving some input
+Compile time : Already allocated memory that's there before running the program
